@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/Arsany-Naim/Kerri-E-Commerce)  
 
-An e‑commerce platform built with the MERN stack (MongoDB, Express, React, Node.js).  
+An Electronics E-shop built with the MERN stack (MongoDB, Express, React, Node.js).  
 
 ---
 
